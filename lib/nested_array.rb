@@ -28,7 +28,7 @@ def matrix_lookup(matrix, row, column)
   # Given any matrix (array of arrays), a row index and a column index,
   # Return the matrix's content at that row and and column
   fruits = [CONVENTIONAL_PRODUCE.sort, ORGANIC_PRODUCE.sort]
-  fruits[1][1]
+  fruits[2][3]
 end
 
 def matrix_update(matrix, row, column, new_value)
